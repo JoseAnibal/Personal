@@ -5,3 +5,5 @@ private/
 *.7z
 *.ace
 *.tar.bz2
+*.log
+!public.log
